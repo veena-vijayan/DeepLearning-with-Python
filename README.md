@@ -37,3 +37,5 @@ The book is mainly divided into six parts: <br />
 </ol>
 
 The project is work in progress and will be updating the notebooks and parts as and when completed. The notebooks contain a snapshot of the lesson and also the example problem along with it.
+
+Note: It is advised to open the notebooks via Google Colab *(Google Colab is a free cloud service and now it supports free GPU! You can; improve your Python programming language coding skills. develop deep learning applications using popular libraries such as Keras, TensorFlow, PyTorch, and OpenCV)*. This allows you to view the images and code better - it can be done by clicking the google colab link on top of the notebook.
